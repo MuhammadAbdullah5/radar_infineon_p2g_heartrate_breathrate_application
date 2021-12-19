@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="ds_shadow_device_settings"/>
+			<item value="BSP_MAX_NUM_CHIRPS_PER_FRAME"/>
+			<item value="transport_buffer"/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

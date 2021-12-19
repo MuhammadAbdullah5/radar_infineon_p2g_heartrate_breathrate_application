@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="609" key="DIALOG_X_ORIGIN"/>
+		<item value="388" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="wave_length_ant_spacing_ratio" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="wave_length_ant_spacing_ratio"/>
+			<item value="assign_track"/>
+			<item value="compute_angle"/>
+			<item value="eTrig1PinFunction"/>
+			<item value="  /* Check if samples per chirp are in [32,64,128,256] range */"/>
+			<item value="MSG_SET_FRAME_FORMAT"/>
+			<item value="FRAME_FORMAT"/>
+			<item value="BSP_MAX_NUM_CHIRPS_PER_FRAME"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="965" key="DIALOG_X_ORIGIN"/>
+		<item value="396" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre" version="1.8.0_131">
+<bootpath>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Infineon\DAVE_4-4-2_64bit\eclipse" version="1.8.0_131">
+<bootpath>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Infineon\DAVE_4-4-2_64bit\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
